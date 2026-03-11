@@ -1,0 +1,5 @@
+{
+  "name": "EdTech Adoption Loss Calculator",
+  "description": "Calculate the financial impact of low EdTech adoption by analyzing tool costs, training investments, and user activity.",
+  "requestFramePermissions": []
+}
